@@ -1,9 +1,6 @@
-# modelos-ml-rp
-Projeto de Machine Learning com modelos de Regressão Logística, Naive Bayes e K-Nearest Neighbours (KNN)
-
 # Projeto de Machine Learning
 
-Projeto de Machine Learning que utiliza os modelos de Regressão Logística, Naive Bayes e K-Nearest Neighbours (KNN), selecionando o melhor modelo para os dados baseado no f1-score
+Projeto da 1ª Verificação de Aprendizagem da disciplina Reconhecimento de Padrões que utiliza os modelos de Regressão Logística, Naive Bayes e K-Nearest Neighbours (KNN), selecionando o melhor modelo para os dados baseado no f1-score
 
 ## Descrição
 
